@@ -19,10 +19,10 @@ Secure login & role-based access (Admin, Staff, Donor)
 
 🔹 Tech Stack:
 
-Frontend: HTML, CSS, JavaScript (or React/Angular if used)
+Frontend: HTML, CSS, JavaScript
 
-Backend: PHP / Node.js / Python (Django/Flask)
+Backend: PHP , Node.js 
 
-Database: MySQL / MongoDB
+Database: MySQL 
 
-Other Tools: Bootstrap, REST API integration (if applicable)
+Other Tools: Bootstrap, REST API integration
